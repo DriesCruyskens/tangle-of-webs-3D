@@ -1,3 +1,3 @@
 # tangle-of-webs-3D
 
-![example](tangle_of_webs.gif)
+![example](images/tangle_of_webs.gif)
